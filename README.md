@@ -6,6 +6,7 @@
 Think of the data structures and algorithms that can help people query the data with specific restrictions in a short time.
 
 ### Run Locally
+* Download the data from: https://ailab.criteo.com/criteo-sponsored-search-conversion-log-dataset/
 * Run this Command: git clone <https://github.com/b05702057/Data-Structures-and-Algorithms-for-Big-Data.git>
 * Run this Command: make
 * Run this Command: ./demo
