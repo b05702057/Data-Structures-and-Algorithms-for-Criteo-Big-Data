@@ -3,7 +3,7 @@
 ### An algorithm that can access specific data from tens of millions pieces of data in a short time
 
 ## Task
-Think of the data structures and algorithms that can help people query the data with specific restrictions in a short time.
+Think of the data structures and algorithms that can help people query the data on an E-commerce platdorm with specific restrictions in a short time.
 
 ### Run Locally
 * Download the data from: https://ailab.criteo.com/criteo-sponsored-search-conversion-log-dataset/
